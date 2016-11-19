@@ -1,0 +1,7 @@
+#Sat Nov 19 15:08:04 IST 2016
+base.0=C\:\\Users\\shan\\AndroidStudioProjects\\SimpleExpenseManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f63e661c752106df3c7d03ec37d52a6a548f64e4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\shan\\AndroidStudioProjects\\SimpleExpenseManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_66caa1a1d821b72eae93790f2957f97dd9a80a27\\classes.dex
+base.1=C\:\\Users\\shan\\AndroidStudioProjects\\SimpleExpenseManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_66caa1a1d821b72eae93790f2957f97dd9a80a27
+file.0=C\:\\Users\\shan\\AndroidStudioProjects\\SimpleExpenseManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f63e661c752106df3c7d03ec37d52a6a548f64e4\\classes.dex
